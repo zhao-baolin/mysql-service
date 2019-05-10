@@ -7,4 +7,4 @@
 
 #### 使用说明
 
-文档：https://www.kancloud.cn/zhaobl5201314/mysql_service/752845
+文档：https://www.kancloud.cn/zhaobl5201314/mysql_service/964836
